@@ -1,0 +1,6 @@
+{
+  "name": "DramaMerge - Android Drama Episode Batch Merger",
+  "description": "Auto-batch merge multi-episode dramas (80-100+ episodes) in 5-episode bundles without quality loss. Smart sorting from file manager and fast mobile processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

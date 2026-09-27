@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "DramaMerge - Episode Batch Merger",
+  "short_name": "DramaMerge",
+  "description": "Auto-batch merge multi-episode dramas in 5-episode bundles without quality loss for Android.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#090d16",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
